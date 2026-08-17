@@ -1,5 +1,13 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **some open-source projects** <br><br>- 🌱 I'm currently learning **Vue, Rust and Java** <br><br>- 👯 I'm looking to collaborate on **open-source project**<br><br>- 🤝 I'm looking for help with **debugging code**<br><br>- 💬 Ask me about **Web development, Python and Cplusplus**<br><br>- 📫 How to reach me **ZWj1154142014@hotmail.com**<br><br>- ⚡ Fun fact **I am playing Arknights:Endfield**<br><br>- 👨‍💻 All of my projects are available at **[https://meali.top](https://meali.top)**<br><br>- 📝 I regularly write articles on **[https://meali.top/posts](https://meali.top/posts)**
+- 🔭 I'm currently working on **some open-source projects**
+- 🌱 I'm currently learning **Vue, Rust and Java**
+- 👯 I'm looking to collaborate on **open-source project**
+- 🤝 I'm looking for help with **debugging code**
+- 💬 Ask me about **Web development, Python and Cplusplus**
+- 📫 How to reach me **ZWj1154142014@hotmail.com**
+- ⚡ Fun fact **I am playing Arknights:Endfield**
+- 👨‍💻 All of my projects are available at **[https://meali.top](https://meali.top)**
+- 📝 I regularly write articles on **[https://meali.top/posts](https://meali.top/posts)**
 
 
 ## 🌐 Socials:
