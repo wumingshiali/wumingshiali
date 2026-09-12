@@ -5,7 +5,6 @@
 - 🤝 I'm looking for help with **debugging code**
 - 💬 Ask me about **Web development, Python and Cplusplus**
 - 📫 How to reach me **ZWj1154142014@hotmail.com**
-- ⚡ Fun fact **I am playing Arknights:Endfield**
 - 👨‍💻 All of my projects are available at **[https://meali.top](https://meali.top)**
 - 📝 I regularly write articles on **[https://meali.top/posts](https://meali.top/posts)**
 
