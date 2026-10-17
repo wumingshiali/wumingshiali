@@ -23,3 +23,5 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_licenses: yes
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
